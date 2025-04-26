@@ -1,0 +1,35 @@
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 15px;
+  background: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  margin: 5px 0;
+  background: gainsboro;
+  display: flex;
+  justify-content: space-between;
+}
+
+li button {
+  background: red;
+  padding: 5px 10px;
+}
